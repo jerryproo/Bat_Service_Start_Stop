@@ -1,3 +1,4 @@
+#备份上个月的MySQL用
 mysql_user="root" #MySQL备份用户
 mysql_password="123456" #MySQL备份用户的密码
 mysql_host="192.168.16.194" #数据库服务器
